@@ -1,0 +1,19 @@
+{
+  "updated": "2026-10-13",
+  "badges": 207,
+  "points": 96525,
+  "trails": 21,
+  "superbadgeCount": 7,
+  "rank": "Ranger",
+  "nextRank": "Double Star Ranger",
+  "badgesToNext": 0,
+  "pointsToNext": 3475,
+  "agentblazerLevel": "Innovator '26",
+  "superbadges": [
+    { "name": "Approval Process Management", "desc": "Demonstrate your ability to automate and enhance approval processes.", "date": "September 8, 2026" },
+    { "name": "Approval Process Troubleshooting", "desc": "Use approval process troubleshooting skills to increase productivity.", "date": "September 7, 2026" },
+    { "name": "Access Governance", "desc": "Monitor your Salesforce org for access-related security vulnerabilities.", "date": "May 22, 2026" },
+    { "name": "Record-Triggered Flow", "desc": "Automate processes to support efficient and insightful record management.", "date": "May 21, 2026" },
+    { "name": "Object Relationships", "desc": "Design a Salesforce data model based on appropriate object requirements.", "date": "April 11, 2026" }
+  ]
+}
